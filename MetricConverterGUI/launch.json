@@ -1,0 +1,23 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "assignment7_23d8c449"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "hellofx.Main",
+            "projectName": "assignment7_23d8c449",
+            "vmArgs": "--module-path C:/Users/miraynoeel/Downloads/javafx-sdk-19/lib --add-modules javafx.controls,javafx.fxml,javafx.media,javafx.graphics"
+        }
+    ]
+}
